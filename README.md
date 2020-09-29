@@ -26,7 +26,10 @@ The webpage port defaults to `:80`. To change it, you'll need to tweak `docker-c
 
 Assuming your repository is a fork of this one, with your project in `./app/`
 
-1- SSH into your server
-2- Clone your project in your desired location
-3- Start the container (docker-compose up)
-4- Wait until lamp says the MySQL database has been created and it's all ready!
+1. SSH into your server
+
+2. Clone your project in your desired location
+
+3. Start the container (docker-compose up)
+
+4. Wait until lamp says the MySQL database has been created and it's all ready!
