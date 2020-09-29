@@ -2,6 +2,8 @@
 
 > Based on https://github.com/mattrayner/docker-lamp
 
+A quick 'n easy way to spin up a Github-synced LAMP server
+
 ## Requisites
 
 ### Server
